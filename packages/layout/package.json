@@ -1,0 +1,9 @@
+{
+  "name": "@mui-patterns/layout",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "react": "17.x",
+    "@mui/material": "5.x",
+    "@mui/icons-material": "5.x"
+  }
+}
